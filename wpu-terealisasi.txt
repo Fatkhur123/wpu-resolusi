@@ -2,3 +2,4 @@ Program WPU yang sudah terealisasi adalah
 - membuat portfolio
 - membuat website berbasis cms
 - membuat website blog
+- membuat website toko online
