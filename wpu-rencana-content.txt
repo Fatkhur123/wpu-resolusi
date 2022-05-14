@@ -3,5 +3,6 @@ Rencana Kontent WPU
   * ES6
   * Framwork jquery
 - php framework
+- menambahkan dasar struktur data
 - javascript framwork
 - git
