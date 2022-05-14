@@ -1,8 +1,10 @@
 Rencana Kontent WPU
 - javascript
   * ES6
-  * Framwork jquery
+  * Framwork javasript
+   ^ vue
+   ^ react
 - php framework
-- menambahkan dasar struktur data
+ * laravel
 - javascript framwork
 - git
