@@ -4,6 +4,8 @@ Rencana Kontent WPU
   * Framwork javasript
    ^ vue
    ^ react
+   ^ emberJS
+   ^ jquery
 - php framework
  * laravel
 - javascript framwork
