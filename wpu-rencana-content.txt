@@ -8,3 +8,4 @@ Rencana Kontent WPU
  * laravel
 - javascript framwork
 - git
+- membuat vlog terbaru
