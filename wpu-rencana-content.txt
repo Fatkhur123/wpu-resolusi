@@ -1,5 +1,7 @@
 Rencana Kontent WPU
 - javascript
+  * ES6
+  * Framwork jquery
 - php framework
 - javascript framwork
 - git
