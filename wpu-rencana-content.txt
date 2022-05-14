@@ -1,11 +1,13 @@
 Rencana Kontent WPU
 - javascript
   * ES6
-  * Framwork jquery
-  * Framwork vue
-  * Framwork React
-  * Framwork emberJS
+  * Framwork javasript
+   ^ vue
+   ^ react
+   ^ emberJS
+   ^ jquery
 - php framework
-- menambahkan dasar struktur data
+ * laravel
 - javascript framwork
 - git
+- membuat vlog terbaru
